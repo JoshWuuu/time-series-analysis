@@ -1,0 +1,22 @@
+# Basic
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+jupyterlab
+seaborn
+
+# Parallel
+joblib
+
+# Statistics stuff
+statsmodels==0.12.1
+
+# Deep Learning
+torch
+tqdm
+
+# Misc.
+holidays
+fastprogress
